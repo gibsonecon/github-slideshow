@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Markets can remain irrational longer than you can remain solvent. --J.M. Keynes
 Use the left arrow to go back!
